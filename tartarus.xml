@@ -9,7 +9,7 @@
 	<player control="cpu" faction="daemons" team="2"/>	
 	<player control="cpu-ultra" faction="daemons" team="2"/>	
 	<player control="cpu" faction="daemons" team="2"/>	
-	<player control="cpu-ultra" faction="daemons" team="9"/>	
+	<player control="cpu-ultra" faction="daemons" team="11"/>	
 
 	</players>
 	<map value="tartarus"/>
